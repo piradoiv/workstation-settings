@@ -16,3 +16,4 @@ colorscheme molokai
 " let g:solarized_visibility="high"
 
 set enc=utf-8
+set number
