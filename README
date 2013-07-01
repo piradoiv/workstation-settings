@@ -1,0 +1,23 @@
+# Work from anywhere!
+
+I'm a software developer trying to work remotely from my tablet, 
+it's a Motorola Xoom (Wingray).
+
+Did you ever wanted to format your work's machine and you were
+worried losing your whole workflow?, me too, that's why I want to
+change to another way of working.
+
+You'll only need any SSH client and Internet connection, and iPad
+and a wireless keyboard will work like a charm!
+
+## Is there any real life example?
+Yup, take a look to these blog posts:
+- http://yieldthought.com/post/12239282034/swapped-my-macbook-for-an-ipad
+- http://yieldthought.com/post/31857050698/ipad-linode-1-year-later
+
+## What do you need?
+Any SSH client, internet and a Virtual Private Server. I'm using
+DigitalOcen, but Linode will work great as well.
+
+## Under construction
+I'll update this manual with the tools I used.
