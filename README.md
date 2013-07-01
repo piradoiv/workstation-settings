@@ -3,6 +3,8 @@
 I'm a software developer trying to work remotely from my tablet, 
 it's a Motorola Xoom (Wingray).
 
+![First attempts](http://i.imgur.com/7PnsvDV.jpg)
+
 Did you ever wanted to format your work's machine and you were
 worried losing your whole workflow?, me too, that's why I want to
 change to another way of working.
