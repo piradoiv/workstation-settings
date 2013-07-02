@@ -10,7 +10,7 @@ ZSH_THEME="tjkirch"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias emacs=emacs-24.3
+alias emacs="emacs-24.3"
 alias gitb="git branch --color"
 alias gittree="git log --graph --oneline --color"
 
@@ -51,4 +51,4 @@ source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
 
-[[ -s '$HOME/.rvm/scripts/rvm' ]] && source '$HOME/.rvm/scripts/rvm'
+#[[ -s '$HOME/.rvm/scripts/rvm' ]] && source '$HOME/.rvm/scripts/rvm'
