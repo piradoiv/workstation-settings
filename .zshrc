@@ -12,7 +12,7 @@ ZSH_THEME="tjkirch"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias emacs="emacs-24.3"
 alias gitb="git branch --color"
-alias gittree="git log --graph --oneline --color"
+alias gittree="git log --graph --color --oneline --decorate"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
