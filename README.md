@@ -34,6 +34,7 @@ vim-easymotion
 vim-fugitive     
 vim-gitgutter     
 vim-json
+vim-xml
 
 ## Under construction
 I'll update this manual with the tools I used.
