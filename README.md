@@ -33,6 +33,7 @@ tcomment\_vim
 vim-easymotion     
 vim-fugitive     
 vim-gitgutter     
+vim-json
 
 ## Under construction
 I'll update this manual with the tools I used.
