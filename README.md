@@ -35,7 +35,8 @@ vim-fugitive
 vim-gitgutter     
 vim-json
 vim-xml
-tobyS/pdv
+https://github.com/tobyS/pdv
+https://github.com/SirVer/ultisnips.git
 
 ## Under construction
 I'll update this manual with the tools I used.
