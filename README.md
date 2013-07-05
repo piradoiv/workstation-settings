@@ -22,20 +22,20 @@ Any SSH client, internet and a Virtual Private Server. I'm using
 DigitalOcen, but Linode will work great as well.
 
 ## Vim plugins I'm using
-closetag.vim     
-ctrlp.vim     
-delimitMate     
-molokai     
-nerdtree     
-supertab     
-syntastic     
-tcomment\_vim     
-vim-easymotion     
-vim-fugitive     
-vim-gitgutter     
-vim-json
-vim-xml
-https://github.com/tobyS/pdv
+https://github.com/vim-scripts/closetag.vim.git
+https://github.com/kien/ctrlp.vim.git
+https://github.com/Raimondi/delimitMate.git
+https://github.com/tomasr/molokai.git
+https://github.com/scrooloose/nerdtree.git
+https://github.com/ervandew/supertab.git
+https://github.com/scrooloose/syntastic.git
+https://github.com/tomtom/tcomment\_vim.git
+https://github.com/Lokaltog/vim-easymotion
+https://github.com/tpope/vim-fugitive.git
+https://github.com/airblade/vim-gitgutter.git
+https://github.com/leshill/vim-json.git
+https://github.com/othree/xml.vim.git
+https://github.com/tobyS/pdv.git
 https://github.com/SirVer/ultisnips.git
 
 ## Under construction
