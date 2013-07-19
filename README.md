@@ -38,6 +38,7 @@ https://github.com/othree/xml.vim.git
 https://github.com/tobyS/pdv.git   
 https://github.com/SirVer/ultisnips.git   
 https://github.com/kchmck/vim-coffee-script.git   
+https://github.com/tobiassvn/vim-gemfile   
 
 ## Under construction
 I'll update this manual with the tools I used.
