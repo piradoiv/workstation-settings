@@ -9,7 +9,7 @@ set expandtab
 set list
 
 set background=dark
-colorscheme molokai
+colorscheme Phoenix-Dark-Blue
 " let g:molokai_original=1
 " let g:solarized_termtrans=1
 " let g:solarized_termcolors=256
@@ -18,3 +18,5 @@ colorscheme molokai
 
 set enc=utf-8
 set number
+
+set guifont=Consolas:h14
